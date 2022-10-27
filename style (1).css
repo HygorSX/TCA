@@ -188,7 +188,8 @@ div.cabecalho{
     border-top: 2px rgb(115, 87, 170) solid;
     margin-top: 20px;
     align-items: center;
-    padding-left: 500px;
+    justify-content: center;
+    align-items: center;
 
     
     
